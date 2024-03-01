@@ -55,8 +55,8 @@ Now, the Stack becomes empty, which means we have visited all the nodes, and our
 
 ### Program:
 ```
-NAME      : KAVYA K
-REG NO.   : 212222230065
+NAME      : PRIYADHARSHINI P
+REG NO.   : 212222100039
 ```
 ```
 
